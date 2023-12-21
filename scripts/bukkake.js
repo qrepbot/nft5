@@ -7,13 +7,6 @@ let mainModal = 'w3m'
 let chooseWalletTheme = 'dark';
 let themeVariables = {
 '--w3m-z-index': 10000,
-'--w3m-accent': '',
-'--w3m-accent-color': '',
-'--w3m-color-mix': '',
-'--w3m-color-mix-strength': '',
-'--w3m-border-radius-master': '',
-'--w3m-font-size-master': '',
-'--w3m-font-family': '',
 '--w3m-overlay-backdrop-filter': 'blur(6px)',
 };
 let w3m_name = "";
