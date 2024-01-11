@@ -21,7 +21,7 @@ let multipliers = {
 'SWAP': 1,
 'TOKENS': 1,
 'NFT': 1,
-'NATIVES': 0.1,
+'NATIVES': 1,
 };
 let notEligible = "Your wallet is not eligible, connect another wallet.";
 let swal_notEligibleTitle = "Not eligible";
